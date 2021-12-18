@@ -106,6 +106,19 @@
         2. Create a new repository
         3. Push the project files to remote repository (Github)
         4. See the result
+ 
 
+#### 12. Push project files to remote repository
 
+        Steps:
 
+        1. Save all files to local reposiroty 
+           1.1 git add .
+           1.2 git status
+           1.3 git add .
+           1.4 git commit -m "message"
+        2. git remote add origin git@github.com:gurnitha/django-justdjango-ecom.git
+        3. git branch -M main
+        4. git push -u origin main
+
+        modified:   README.md
