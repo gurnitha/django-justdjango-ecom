@@ -96,4 +96,16 @@
         new file:   config/urls.py
         new file:   config/wsgi.py
         new file:   manage.py
+ 
+
+#### 11. Create remote repository
+
+        Steps:
+
+        1. Create account on Github
+        2. Create a new repository
+        3. Push the project files to remote repository (Github)
+        4. See the result
+
+
 
